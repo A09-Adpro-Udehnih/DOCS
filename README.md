@@ -18,6 +18,17 @@
 - 💳 **Payment**: Rasyid
 - 👨‍💼 **Staff Dashboard**: Ilham
 
+## 📊 Project Diagrams
+
+| Component       | Location                                                         | Responsible |
+| --------------- | ---------------------------------------------------------------- | ----------- |
+| Auth & Review   | [AuthDiagram](IndividualDiagram/AuthDiagram)                     | Tristan     |
+| Course Browsing | [CourseBrowsingDiagram](IndividualDiagram/CourseBrowsingDiagram) | Wisnu       |
+| Course Creation | [CourseCreationDiagram](IndividualDiagram/CourseCreationDiagram) | Fadhlan     |
+| Payment         | [PaymentDiagram](IndividualDiagram/PaymentDiagram)               | Rasyid      |
+| Staff           | [StaffDiagram](IndividualDiagram/StaffDiagram)                   | Ilham       |
+| Group Diagrams  | [GroupDiagram](GroupDiagram)                                     | All Team    |
+
 ## 🔗 Repository Links
 
 - 🌐 **Frontend**: [FE](https://github.com/A09-Adpro-Udehnih/FE)
